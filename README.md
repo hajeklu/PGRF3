@@ -1,7 +1,8 @@
 # PGRF3
 první úloha
 
-Vytvořte vertex a index buffer pro uložení geometrie tělesa založené na síti trojúhelníků – grid. Vyzkoušejte implementaci gridu pomoci triangle stripu. Model zobrazte ve formě hran i vyplněných ploch
+Vytvořte vertex a index buffer pro uložení geometrie tělesa založené na síti trojúhelníků – grid. 
+Vyzkoušejte implementaci gridu pomoci triangle stripu. Model zobrazte ve formě hran i vyplněných ploch
 Vytvářená tělesa definujte pomocí parametrických funkcí uvedených například na následujících odkazech. 
 http://www.math.uri.edu/~bkaskosz/flashmo/tools/parsur/ 
 http://www.math.uri.edu/~bkaskosz/flashmo/tools/sphplot/ 
